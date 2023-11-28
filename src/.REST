@@ -1,0 +1,17 @@
+//--------------Products--------------
+
+GET http://localhost:3001/api/products
+
+###
+GET http://localhost:3001/api/products/83275273
+
+###
+POST http://localhost:3001/api/products
+
+###
+PUT http://localhost:3001/api/products/78477339
+
+###
+DELETE http://localhost:3001/api/products/39074073
+
+//----------------Carts-----------------
